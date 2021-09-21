@@ -2,3 +2,28 @@ body{
     background-color: wheat;
     color: black;
 }
+h1,h2,footer,a{
+    background-color: black;
+    color: white;
+    
+    text-align: center;
+}
+h1{
+    font-size: 10vh;
+}
+h2,footer{
+    font-size: 8vh;
+}
+p,li{
+    font-size: 5vh;
+}
+
+a{
+    color: white;
+}
+#top{
+    text-align: left;
+}
+#main{
+    text-align: right;
+}

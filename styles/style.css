@@ -1,13 +1,19 @@
 h1{
     background-color: black;
     color: white;
+    font-size: 15vh;
+    text-align: center;
+    font-weight: bold;
 }
 body{
     background-color: wheat;
+    
 }
 ul{
     color: white;
+    font-size: 5vh;
 }
 a{
     color: black;
+    font-size: 5vh;
 }
